@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,Price,StockQuantity,Supplier
+P001,Smartphone X1,Electronics,699,120,TechCorp
+P002,Laptop Pro 15,Electronics,1299,85,CompWorld
+P003,Wireless Earbuds,Electronics,149,300,SoundMax
+P004,Running Shoes,Apparel,89,200,Sportify
+P005,Leather Jacket,Apparel,199,50,FashionHub
+P006,Espresso Machine,Home Appliances,349,40,CoffeeWorks
+P007,Microwave Oven,Home Appliances,179,60,HomeEase
+P008,Smartwatch Z,Electronics,249,150,TechCorp
+P009,Office Chair,Home & Furniture,129,75,FurniCo
+P010@,Bookshelf 5-Tier,Home & Furniture,99,90,FurniCo
+P011,Tablet Mini,Electronics,399,110,CompWorld
+P012,Blender Pro,Home Appliances,89,120,HomeEase
+P013,T-Shirt Cotton,Apparel,25,500,FashionHub
+P014,Jeans Slim Fit,Apparel,59,250,FashionHub
+P015,Refrigerator XL,Home Appliances,899,30,HomeEase
+#P016,Headphones Studio,Electronics,199,80,SoundMax
+P017,Desk Lamp LED,Home & Furniture,45,140,FurniCo
+P018,Winter Coat,Apparel,149,60,FashionHub
+P019,Camera DSLR,Electronics,999,40,TechCorp
+P020,Air Purifier,HA,299,55,HomeEase
+P021,,Electronics,699,120,TechCorp
+P022,Smartphone X1,Electronics,-500,100,TechCorp
+P023,Laptop Pro 15,Electronics,1299,,CompWorld
+P024,Wireless Earbuds,Electronics,149,300,
+P025,Running Shoes,Apparel,89,200,Sportify
