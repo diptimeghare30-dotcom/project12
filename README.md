@@ -133,26 +133,6 @@ Tables:
 
 ---
 
-## 📂 Project Structure
-
-📦 project-root
-┣ 📂 notebooks
-┃ ┣ dim_bronze.py
-┃ ┣ dim_silver.py
-┃ ┣ dim_gold.py
-┃ ┣ fact_bronze_autoloader.py
-┃ ┣ fact_silver_stream.py
-┃ ┗ fact_gold.sql
-┣ 📂 data
-┃ ┣ products/
-┃ ┣ customers/
-┃ ┣ orders/
-┃ ┗ returns/
-┣ 📂 checkpoints
-┗ README.md
-
----
-
 ## ▶️ How to Run
 
 ### 1️⃣ Setup Azure Resources
